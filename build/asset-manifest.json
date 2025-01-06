@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/law-office-system_pub/static/css/main.58d3b452.css",
+    "main.js": "/law-office-system_pub/static/js/main.c9d778c3.js",
+    "static/js/488.b7346ce9.chunk.js": "/law-office-system_pub/static/js/488.b7346ce9.chunk.js",
+    "index.html": "/law-office-system_pub/index.html",
+    "main.58d3b452.css.map": "/law-office-system_pub/static/css/main.58d3b452.css.map",
+    "main.c9d778c3.js.map": "/law-office-system_pub/static/js/main.c9d778c3.js.map",
+    "488.b7346ce9.chunk.js.map": "/law-office-system_pub/static/js/488.b7346ce9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58d3b452.css",
+    "static/js/main.c9d778c3.js"
+  ]
+}
